@@ -23,8 +23,8 @@ def update_bot():
 
 logging.basicConfig(level=logging.INFO)
 
-TOKEN = config('BOT_TOKEN', default='YOUR_BOT_TOKEN_HERE')
-APIKEY = config('APIKEY', default='YOUR_APIKEY_HERE')
+TOKEN = config('BOT_TOKEN', default='6845914467:AAGqfwYU5vZdRz-k5Fs6fhuXYJm_RH5E9tY')
+APIKEY = config('APIKEY', default='23054736')
 OWNER = config('OWNER', default='https://t.me/punjab_buy/')
 CLEAN_TERMINAL = config('CLEAN_TERMINAL', default='False')
 
